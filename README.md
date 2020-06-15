@@ -19,19 +19,21 @@ A repository for improving my skills with JavaScript/TypeScript TDD (Test Driven
   - [ ] Basic Examples
   - [ ] Buggy Hybrid App Testing
   - [ ] Buggy Native App Testing (iOS & Android)
+- [ ] Unit Testing
+  - [ ] Code-Challenges
+    - [ ] HackerRank
+  - [x] Mocha
+  - [x] Chai
+    - [ ] [Plugins](https://www.chaijs.com/plugins/)
+  - [x] Jest
+  - [ ] TypeScript
+  - [ ] [Deno's built in testing](https://deno.land/manual/testing)
+- [ ] CI/CD
+  - [ ] Github hooks
+  - [ ] others
 - [ ] Linting Configurations
   - [ ] ES Lint
   - [ ] TS Lint
   - [ ] CSS Lint
   - [ ] etc
-- [ ] Unit Testing
-  - [x] Mocha
-  - [x] Chai
-    - [ ] 
-  - [x] Jest
-  - [ ] TypeScript
-  - [ ] [Deno's built in testing](https://deno.land/manual/testing)
-  - [ ] Code-Challenges
-    - [ ] HackerRank
-    - [ ] Etc
 

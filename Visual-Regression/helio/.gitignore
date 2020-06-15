@@ -1,0 +1,3 @@
+# Hide sensitive things such as my username & password being sentback as a response...
+/logs
+status429.md
