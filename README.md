@@ -1,2 +1,37 @@
 # TDD-Experiments
- Some basic Test Driven Development examples built using JavaScript tools.
+A repository for improving my skills with JavaScript/TypeScript TDD (Test Driven Development) & CI/CD (continuous integration & continuous delivery/deployment).
+
+## Goals
+
+- [ ] Visual Regression Testing 
+  - [x] Scripting Behavior Driven User Stories
+  - [ ] Web Crawling for Styles
+  - [ ] Cross-Browser Testing Automation
+    - [x] Chrome
+    - [ ] [Chrome Edge ](https://www.npmjs.com/package/puppeteer-edge)
+    - [ ] [Firefox](https://www.npmjs.com/package/puppeteer-firefox) 
+    - [ ]  Canary (Bleeding Edge)
+    - [ ]  Firefox Nightly (Bleeding Edge)
+  - [ ] Bleeding Edge Browser Features
+    - [ ] Automated testing for Canary & Firefox Nightly
+    - [ ] CSS Houdini
+- [x] Appium - for use with native, hybrid and mobile web apps.
+  - [ ] Basic Examples
+  - [ ] Buggy Hybrid App Testing
+  - [ ] Buggy Native App Testing (iOS & Android)
+- [ ] Linting Configurations
+  - [ ] ES Lint
+  - [ ] TS Lint
+  - [ ] CSS Lint
+  - [ ] etc
+- [ ] Unit Testing
+  - [x] Mocha
+  - [x] Chai
+    - [ ] 
+  - [x] Jest
+  - [ ] TypeScript
+  - [ ] [Deno's built in testing](https://deno.land/manual/testing)
+  - [ ] Code-Challenges
+    - [ ] HackerRank
+    - [ ] Etc
+
